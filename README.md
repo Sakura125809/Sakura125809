@@ -14,7 +14,11 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-📫 Welcome to my [Blog](https://125809.notion.site/Sakura-s-Blog-Post-b95fa581d2294e5fb53300851f38c8c0 "Sakura's Blog Post").  
+## 📫 How to reach me?
+- [Gmail](lzq125809@gmail.com)
+- [Blog](https://125809.notion.site/Sakura-s-Blog-Post-b95fa581d2294e5fb53300851f38c8c0 "Sakura's Blog Post").  
+
+
 
 [![Sakura's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakura-LZQ&show_icons=true&theme=vue-dark)](https://github.com/Sakura-LZQ)
 
