@@ -9,10 +9,9 @@ You can click the Preview link to take a look at your changes.
  <p align="center">A college student who is studying. </p>
 </p>
 <h3 align="center">📈Profile Views</h3>
-<p align="center">
+<p align="left">
   <img src="https://profile-counter.glitch.me/Sakura-LZQ/count.svg" />
 </p>
-
 
 ## 📫 How to reach me?
 - Gmail: lzq125809@gmail.com
@@ -20,6 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Sakura's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakura-LZQ&show_icons=true&theme=vue-dark)](https://github.com/Sakura-LZQ)
+ <img width="47%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sakura125809&v=2&hide_border=false" />
 
 <img alt="🦑" align="left" width="400px" src="https://github.com/Sakura-LZQ/Sakura-LZQ/blob/master/metrics.svg">
 <img alt="🦑" align="right" width="400px" src="https://github.com/Sakura-LZQ/Sakura-LZQ/blob/master/metrics.additional.svg">
