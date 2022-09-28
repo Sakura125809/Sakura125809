@@ -10,13 +10,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Personal metrics
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@v3.28
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          user: DoveBoy
-          config_timezone: Asia/Anhui
+          user: Sakura-LZQ
+          config_timezone: Asia/China
           config_order: base.header, isocalendar, base.repositories, followup, pagespeed, people
           config_padding: 10%
           use_prebuilt_image: master
@@ -36,13 +36,13 @@ jobs:
           plugin_people_limit: 28
           plugin_people_size: 28
       - name: Personal metrics (additional)
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@v3.28
         with:
           filename: metrics.additional.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          user: DoveBoy
-          config_timezone: Asia/Anhui
+          user: Sakura-LZQ
+          config_timezone: Asia/China
           config_order: habits, stargazers, languages, stargazers, topics
           config_padding: 10%
           use_prebuilt_image: master
@@ -59,8 +59,8 @@ jobs:
 
           plugin_topics: yes
           plugin_topics_mode: mastered
-      - name: Delete Workflow Runs
-        uses: Mattraks/delete-workflow-runs@main
+      - name: Delete workflow runs
+  	  uses: Mattraks/delete-workflow-runs@v2.0.3
         with:
          token: ${{ github.token }}
          repository: ${{ github.repository }}
