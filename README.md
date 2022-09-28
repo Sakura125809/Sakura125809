@@ -13,6 +13,9 @@ You can click the Preview link to take a look at your changes.
 
 [![Sakura's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakura-LZQ&show_icons=true&theme=vue-dark)](https://github.com/Sakura-LZQ)
 
+<img alt="🦑" align="left" width="400px" src="https://github.com/Sakura-LZQ/Sakura-LZQ/blob/master/metrics.svg">
+<img alt="🦑" align="left" width="400px" src="https://github.com/Sakura-LZQ/Sakura-LZQ/blob/maaster/metrics.additional.svg">
+
 <h3 align="center">📈Profile Views</h3>
 <p align="center">
   <img src="https://profile-counter.glitch.me/Sakura-LZQ/count.svg" />
