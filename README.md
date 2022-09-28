@@ -8,6 +8,11 @@ You can click the Preview link to take a look at your changes.
  <h2 align="center">Sakura</h2>
  <p align="center">A college student who is studying. </p>
 </p>
+<h3 align="center">📈Profile Views</h3>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Sakura-LZQ/count.svg" />
+</p>
+
 
 📫 Welcome to my [Blog](https://125809.notion.site/Sakura-s-Blog-Post-b95fa581d2294e5fb53300851f38c8c0 "Sakura's Blog Post").  
 
@@ -15,8 +20,3 @@ You can click the Preview link to take a look at your changes.
 
 <img alt="🦑" align="left" width="400px" src="https://github.com/Sakura-LZQ/Sakura-LZQ/blob/master/metrics.svg">
 <img alt="🦑" align="right" width="400px" src="https://github.com/Sakura-LZQ/Sakura-LZQ/blob/master/metrics.additional.svg">
-
-<h3 align="center">📈Profile Views</h3>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Sakura-LZQ/count.svg" />
-</p>
