@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Personal metrics
-        uses: lowlighter/metrics@v3.28
+        uses: lowlighter/metrics@master
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -60,7 +60,7 @@ jobs:
           plugin_topics: yes
           plugin_topics_mode: mastered
       - name: Delete workflow runs
-  	  uses: Mattraks/delete-workflow-runs@v2.0.3
+  	  uses: Mattraks/delete-workflow-runs@main
         with:
          token: ${{ github.token }}
          repository: ${{ github.repository }}
