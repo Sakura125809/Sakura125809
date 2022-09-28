@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
  <p align="center">A college student who is studying. </p>
 </p>
 <h3 align="center">📈Profile Views</h3>
-<p align="left">
+<p align="center">
   <img src="https://profile-counter.glitch.me/Sakura-LZQ/count.svg" />
 </p>
 
