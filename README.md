@@ -20,7 +20,8 @@ You can click the Preview link to take a look at your changes.
 
 
 <img width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=Sakura-LZQ&show_icons=true&theme=vue-dark" />
-<img width="47%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sakura125809&v=2&hide_border=false" />
+<img width="47%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakura-LZQ" />
+
 
 <br></br>
 <br></br>
