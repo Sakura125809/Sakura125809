@@ -22,22 +22,7 @@ You can click the Preview link to take a look at your changes.
 <img width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=Sakura125809&show_icons=true&theme=vue-dark" />
 <!-- <img width="47%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakura125809" /> -->
 
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Rust                     5 hrs 6 mins        ██████████████░░░░░░░░░░░   58.76% 
-C++                      1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.33% 
-Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.22% 
-TypeScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.13% 
-TeX                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.78%
-
-```
-
-
- Last Updated on 04/02/2023 07:53:35 UTC
-<!--END_SECTION:waka-->
+![Sakura's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sakura125809)
 
 
 <br></br>
