@@ -26,5 +26,5 @@ You can click the Preview link to take a look at your changes.
 <br></br>
 <br></br>
 
-<img alt="🦑" align="left" width="400px" src="https://github.com/Sakura-LZQ/Sakura-LZQ/blob/master/metrics.svg">
+<img alt="🦑" align="left" width="390px" src="https://github.com/Sakura-LZQ/Sakura-LZQ/blob/master/metrics.svg">
 <img alt="🦑" align="right" width="400px" src="https://github.com/Sakura-LZQ/Sakura-LZQ/blob/master/metrics.additional.svg">
