@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center">📈Profile Views</h3>
 <p align="center">
-  <img width="500" src="https://count.getloli.com/get/@:Sakura125809?theme=rule34">
+  <img width="500" src="https://count.getloli.com/get/@:Sakura?theme=rule34">
 </p>
 
 ## 📫 How to reach me?
