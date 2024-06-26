@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 ## 📫 How to reach me?
 
 - Gmail: lzq125809@gmail.com
-- Telegram: [@Sakura125809](https://t.me/Sakura125809)
+- Telegram: [@Sakura125809](https://t.me/Sakura125809) (Now the phone number is banned.)
 
 <img width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=Sakura125809&show_icons=true&theme=vue-dark" />
 <img width="47%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime/?username=Sakura125809&layout=compact&theme=vue-dark&range=last_7_days&link=https://www.github.com/Sakura125809/" />
